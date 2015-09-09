@@ -31,13 +31,13 @@ The Five Dysfunctions of a Team
 
   > Absence of trust - are people comfortable with sharing their mistakes and vulnerabilities with the group? Typically a result of a culture that emphasizes punishing for mistakes rather than viewing issues as opportunities to improve.
   
-  > Fear of Conflict - 
+  > Fear of Conflict - the ultimate passive aggressive behavior, are people agreeing in words, but then not following through with actions? If that happens, you need to examine why people prefer not to engage in constructive conflict. Is it fear of reprecussions? Specific toxic individuals? Lack of conflict resolution skills? Disagreements becoming personal? Any number of things could cause this, and the important idea is to make sure to address all of these barriers to enable fearless discussion. Key phrase - it's not important who is right, as long as the right thing is done.
   
-  > Lack of Commitment 
+  > Lack of Commitment - sort of related to previous point, commitment in words but not in actions. 
   
-  > Avoidance of accountability - 
+  > Avoidance of accountability - both shifting the blame, as well as not holding peers to higher standards. 
   
-  > Inattention to results -
+  > Inattention to results - focusing on personal success / reputation / goals at the team's expense.
 
 
 
