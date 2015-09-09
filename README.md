@@ -20,6 +20,10 @@ Drive: The Surprising Truth About What Motivates Us [Wikipedia](https://en.wikip
 > The idea that in creative teams the only way to motivate people is through appealing to their internal motivation, through such means as establishing a sense of higher purpose "this product will make the world better", personal mastery "if you do this, you would be expert in X" or a sense of personal autonomy and control over ones destiny "here is the vision, but you decide how to get there". On the other hand, traditional coercive / external motivational techniques such as "do this or else" and "finish this by that date, and you will get a bonus" no longer work, and often would prove counter productive by destroying the internal motivation.
 
 
+How to Win Friends & Influence People [Amazon](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034/ref=pd_sim_14_2) [Wikipedia](https://en.wikipedia.org/wiki/How_to_Win_Friends_and_Influence_People)
+
+> It's really amazing to me how well this book has held up, considering the original was published all the way back in 1936. This is way before computers were even invented, and yet most of the advice still applies to almost daily situation. One could argue that most of the business / management advice being created today is really just rehashing of the same material that was created by Dale Carnegie. Trying to summarize this would be sacrelgious so let's put it this way - as a manager, dealing with people is your number one job, and this is probably still the best book to cover that.
+
 
 #### Team Chemistry
 
