@@ -6,24 +6,38 @@ As a technical leader you need to be able to wear many hats, often at once, to b
 
 # managing yourself
 
+
 # managing your team
+
+As a manager you are only as sucessful as your team.
+
+[Drive](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) – "Carrots & Sticks are so last Century. Drive says for 21st century work, we need to upgrade to autonomy, mastery and purpose." [Amazon](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1)
+
+
+
+
 
 # managing sideways and upwards
 
-# agile / lean / project management
 
-[Drive](books/drive.md) – best model I know for motivation and culture/system design
+# agile / lean / project management
 
 http://www.agilemanifesto.org/
 
 [Lean Software Development](http://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=sr_1_1)
 
+
 # software engineering 
+
 
 # product management
 
+
 # hiring / career management / performance management / termination
 
+
 # compensation
+
+# quantifying success
 
 
