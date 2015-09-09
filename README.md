@@ -52,8 +52,7 @@ http://www.agilemanifesto.org/
 
 When all else fails...
 
-[The classic](https://en.wikiquote.org/wiki/Murphy%27s_law)
-
-[The bike shed](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
++ [The classic](https://en.wikiquote.org/wiki/Murphy%27s_law)
++ [The bike shed](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 
 
