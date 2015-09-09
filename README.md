@@ -11,9 +11,14 @@ As a technical leader you need to be able to wear many hats, often at once, to b
 
 As a manager you are only as sucessful as your team.
 
-[Drive](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) – "Carrots & Sticks are so last Century. Drive says for 21st century work, we need to upgrade to autonomy, mastery and purpose." [Amazon](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1)
+## Motivation
+
+Drive [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)[Amazon](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1) 
+
+"Carrots & Sticks are so last Century. Drive says for 21st century work, we need to upgrade to autonomy, mastery and purpose." 
 
 
+## sss
 
 
 
