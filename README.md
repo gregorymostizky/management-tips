@@ -74,6 +74,10 @@ http://www.agilemanifesto.org/
 # hiring / career management / performance management / termination
 
 
+# Leadership
+
+Tom Peters
+
 # Bits and Ends
 
 When all else fails...
