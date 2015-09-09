@@ -74,13 +74,21 @@ The Cathedral and the Bazaar [Online](http://www.catb.org/esr/writings/cathedral
 > The classic on why open source will (has?) win. Even if you ignore the open source parts, it has lots of useful information on right ways to do software engineering, that were later adopted into various agile / lean methods. The wikipedia has a nice summary but here are some of the more important ones in my mind 
 
   > "Good programmers know what to write. Great ones know what to rewrite (and reuse)."
+  
   > "Plan to throw one [version] away; you will, anyhow."
+  
   > "Treating your users as co-developers is your least-hassle route to rapid code improvement and effective debugging"
+  
   > "Release early. Release often. And listen to your customers"
+  
   > "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone"
+  
   > "Smart data structures and dumb code works a lot better than the other way around"
+  
   > "Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong"
+  
   > "Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (Attributed to Antoine de Saint-Exupéry)"
+  
   > "A security system is only as secure as its secret. Beware of pseudo-secrets."
   
 C2 [Website](http://c2.com/cgi/wiki?DesignPatterns) [Wikipedia](https://en.wikipedia.org/wiki/WikiWikiWeb)
