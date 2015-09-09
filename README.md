@@ -55,6 +55,8 @@ The Power of Habit: Why We Do What We Do in Life and Business
 
 # managing sideways and upwards
 
+48 laws of power
+
 
 # agile / lean / project management
 
@@ -70,9 +72,6 @@ http://www.agilemanifesto.org/
 
 
 # hiring / career management / performance management / termination
-
-
-# compensation
 
 
 # Bits and Ends
