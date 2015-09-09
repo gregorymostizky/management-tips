@@ -21,7 +21,23 @@ Drive: The Surprising Truth About What Motivates Us [Wikipedia](https://en.wikip
 
 
 
-#### sss
+#### Team Chemistry
+
+The Five Dysfunctions of a Team
+[Wikipedia](https://en.wikipedia.org/wiki/The_Five_Dysfunctions_of_a_Team)
+[Amazon](http://www.amazon.com/The-Five-Dysfunctions-Team-Leadership/dp/0787960756)
+
+> I am not in love with the format so I would recommend just reading the wiki summary. With that said the 5 dysfunctions it present are super critical to be recognized and addressed to ensure a healthy and working team, rather than a bunch of colocated strangers. The critical items are:
+
+  > Absence of trust - are people comfortable with sharing their mistakes and vulnerabilities with the group? Typically a result of a culture that emphasizes punishing for mistakes rather than viewing issues as opportunities to improve.
+  
+  > Fear of Conflict - 
+  
+  > Lack of Commitment 
+  
+  > Avoidance of accountability - 
+  
+  > Inattention to results -
 
 
 
