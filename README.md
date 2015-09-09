@@ -140,3 +140,11 @@ When all else fails...
   > As they say in that famous joke, at least you are not [testing rectal thermometers](http://www.snopes.com/humor/jokes/thermometer.asp)
   
   > Seriously though, this is a good guide of what NOT to do. Sometimes it's better to learn from other people's mistakes.
+  
+### Additional Resources, Lists...
+
+[Free Programming Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+
+[Free Engineering Books curated by HackerNews community](http://hackershelf.com/browse/?popular=1)
+
+[Joel's list of essential book for software manager](http://www.joelonsoftware.com/articles/FogCreekMBACurriculum.html)
