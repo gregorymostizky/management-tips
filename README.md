@@ -83,7 +83,7 @@ The Cathedral and the Bazaar [Online](http://www.catb.org/esr/writings/cathedral
   > "Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away. (Attributed to Antoine de Saint-Exupéry)"
   > "A security system is only as secure as its secret. Beware of pseudo-secrets."
   
-C2 [website](http://c2.com/cgi/wiki?DesignPatterns) [Wikipedia](https://en.wikipedia.org/wiki/WikiWikiWeb)
+C2 [Website](http://c2.com/cgi/wiki?DesignPatterns) [Wikipedia](https://en.wikipedia.org/wiki/WikiWikiWeb)
 
 > The original wiki that was developed to exchange ideas around software development and design patterns back in 1994. Still online amazingly enough. A lot of the content is still valid though at this point there are likely better resources for a lot of this stuff. Despite that I still find myself checking it once in a while.
 
