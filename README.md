@@ -115,6 +115,14 @@ The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create 
 
 Tom Peters
 
+
+### Quick Hacks
+
++ Learn to shut up and hold an uncomfortable pause - when doing one-on-ones, or team meetings where you are asking for feedback / suggestions / concerns etc... You can get a lot just by holding and waiting for other person to fill in the silence, arguably more than what you would get by asking questions.
++ If people are bringing laptops and staring into them during the meetings - pick someone with laptop at random and ask them to take notes. Do it 3 times and you can be sure no one will bring laptop again. 
+  + Of course, you should also try to understand why people were prefering to stare into the laptop in the first place.
+
+
 ### Bits and Ends
 
 When all else fails...
