@@ -111,9 +111,12 @@ The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create 
 ### hiring / career management / performance management / termination
 
 
-### Strategy
+### Gurus
 
-Tom Peters
++ Tom Peters
++ [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)
++ [Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)
+
 
 
 ### Quick Hacks
