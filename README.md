@@ -125,4 +125,8 @@ When all else fails...
 
   > Unfortunately often perverted to mean "if we set tighter deadlines, the project will finish faster"
 
++ [For when you feel the office politics are driving you crazy](http://workplace.stackexchange.com/)
 
+  > As they say in that famous joke, at least you are not [testing rectal thermometers](http://www.snopes.com/humor/jokes/thermometer.asp)
+  
+  > Seriously though, this is a good guide of what NOT to do. 
