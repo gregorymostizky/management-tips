@@ -113,9 +113,13 @@ The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create 
 
 ### Gurus
 
-+ Tom Peters
++ [Peters](https://en.wikipedia.org/wiki/Tom_Peters)
 + [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 + [Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)
++ [Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)
++ [Jeffries](https://en.wikipedia.org/wiki/Ron_Jeffries)
++ [Spolsky](https://en.wikipedia.org/wiki/Joel_Spolsky)
++ [DHH](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)
 
 
 
