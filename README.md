@@ -3,6 +3,8 @@ A public repository for collecting book suggestions, quotes, tips and anything e
 
 # books
 
+[Drive](books/drive.md) – best model I know for motivation and culture/system design
+
 # quotes
 
 # advice
