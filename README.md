@@ -129,4 +129,4 @@ When all else fails...
 
   > As they say in that famous joke, at least you are not [testing rectal thermometers](http://www.snopes.com/humor/jokes/thermometer.asp)
   
-  > Seriously though, this is a good guide of what NOT to do. 
+  > Seriously though, this is a good guide of what NOT to do. Sometimes it's better to learn from other people's mistakes.
