@@ -55,6 +55,6 @@ When all else fails...
 + [The classic](https://en.wikiquote.org/wiki/Murphy%27s_law)
 + [The bike shed](https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality)
 + [The work expansion law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
-++ Unfortunately often perverted to mean "if we set tighter deadlines, the project will finish faster"
+> Unfortunately often perverted to mean "if we set tighter deadlines, the project will finish faster"
 
 
