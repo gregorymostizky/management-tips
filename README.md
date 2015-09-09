@@ -11,5 +11,5 @@ A public repository for collecting book suggestions, quotes, tips and anything e
 
 http://www.agilemanifesto.org/
 
-http://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=sr_1_1
+[Lean Software Development](http://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=sr_1_1)
 
