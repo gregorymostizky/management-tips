@@ -13,9 +13,9 @@ As a manager you are only as sucessful as your team.
 
 ## Motivation
 
-Drive [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)[Amazon](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1) 
++ Drive [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us) [Amazon](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805/ref=sr_1_1) 
 
-"Carrots & Sticks are so last Century. Drive says for 21st century work, we need to upgrade to autonomy, mastery and purpose." 
+> "Carrots & Sticks are so last Century. Drive says for 21st century work, we need to upgrade to autonomy, mastery and purpose." 
 
 
 ## sss
