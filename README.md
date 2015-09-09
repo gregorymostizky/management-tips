@@ -97,7 +97,15 @@ C2 [Website](http://c2.com/cgi/wiki?DesignPatterns) [Wikipedia](https://en.wikip
 
 
 
-### product management
+### Product Management
+
+As an engineering leader, you don't need to be a product manager, but you have to understand the key concepts and ideas, so you can collaborate with the product team and ensure that you are not only building the product right way, but also that you are building the right product.
+
+The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses [Amazon](http://www.amazon.com/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898) [Wikipedia](https://en.wikipedia.org/wiki/Lean_startup)
+
+> One of those classics that everyone talks about but I don't think anyone has actually read. At least I haven't :)
+
+> Popularized ideas around MVP, A/B testing, Pivot, Build-Measure-Learn and so on. If you have no idea what I am talking about go read at least the wikipedia summary right now. 
 
 
 ### hiring / career management / performance management / termination
