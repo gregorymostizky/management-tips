@@ -122,6 +122,7 @@ Tom Peters
 + Related to the above, if in a group conversation you feel that everybody is talking to you instead of having an actual discussion, try avoiding eye contact and not responding and see what happens. Does wonders to get the team to actually talk to each other.
 + If people are bringing laptops and staring into them during the meetings - pick someone with laptop at random and ask them to take notes. Do it 3 times and you can be sure no one will bring laptop again. 
   + Of course, you should also try to understand why people were prefering to stare into the laptop in the first place.
++ [5 whys](https://en.wikipedia.org/wiki/5_Whys) - useful for getting to the root issue, often even when the person you are talking to is not even aware of it. Try it and you may learn something surprising.
 
 
 ### Bits and Ends
