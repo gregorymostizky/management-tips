@@ -113,7 +113,12 @@ The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create 
 
 ### Gurus
 
++ [Carnegie](https://en.wikipedia.org/wiki/Dale_Carnegie)
+
 + [Peters](https://en.wikipedia.org/wiki/Tom_Peters)
+
+> The original business guru, one of the authors of the bestselling [In Search Of Excellence](https://en.wikipedia.org/wiki/In_Search_of_Excellence) book back in 1982, which I cover in more detail above. Extremely pragmatic, straight to a point he has lots of great advice that can be used on any level, even though typically his target audience is the executives. His public speaking style and the unique decks are a source of inspiration, so I would recommend searching for some of his publicly available videos. He doesn't have anything specific for software, but if you are just graduating to leadership role, you could do much worse than focusing on just him and Carnegie. Everything else is an extra.
+
 + [Deming](https://en.wikipedia.org/wiki/W._Edwards_Deming)
 + [Drucker](https://en.wikipedia.org/wiki/Peter_Drucker)
 + [Fowler](https://en.wikipedia.org/wiki/Martin_Fowler)
