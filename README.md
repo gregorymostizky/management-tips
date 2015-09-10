@@ -162,3 +162,5 @@ When all else fails...
 [Free Engineering Books curated by HackerNews community](http://hackershelf.com/browse/?popular=1)
 
 [Joel's list of essential book for software manager](http://www.joelonsoftware.com/articles/FogCreekMBACurriculum.html)
+
+[How Database Work](http://coding-geek.com/how-databases-work/)
