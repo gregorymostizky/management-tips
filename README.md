@@ -77,6 +77,42 @@ What does an Agile Leader do?
 > What is preventing us from winning? Continous improvement, people, teams, strategy, tactics.
 
 
+Agile leader possible focus areas
+
+> Vision/mission. Ensure the the work being done has a clear purpose, clear hypotheses, clear boundaries/scope (“what are we NOT doing”), and clear success metrics based on business impact rather than deliveries. Ensure this is crystal clear to everyone involved, teams as well as customers and other stakeholders.
+
+> Iterative and incremental delivery. Ensure that the work is split into sub-deliveries, to enable iterative and incremental delivery rather than big bang.  Avoid large projects whenever possible, instead try to split the work into a series of smaller projects whenever feasible.
+
+> Adaptive planning. Ensure that plans are created and communicated to everyone involved. Ensure the plans are adaptive rather than predictive, and updated as we learn. Ensure that deadlines are communicated and forecasts created as necessary, and updated based on empirical data as the work progresses. Make sure any constraints (date or scope) are clear to everyone.
+
+> Feedback.  Ensure a short feedback loop with tight and frequent communication between teams and customers. Collaborative planning, demos, etc. Ensure that hypotheses and assumptions are field-tested early and that learning happens continuously. Ensure that progress is measured based on actual deliveries and feedback and business impact, not by compliance to plan.
+
+> Continuous improvement and knowledge sharing. Ensuring that learning and improvement happens continuously as the work progresses (not just at the end), and that key learnings are shared within the teams as well as across different parts of the organization.
+
+> Focus and alignment. Ensure that participants are focused and dedicated (not multitasking), and aligned with the same list of priorities. Bash silos. Ensure that people are focusing on achieving the highest possible business impact with the lowest possible effort and output (working smart is more important than working hard).
+
+> Impediment removal. Ensure that waste and impediments are visualized, prioritized, and systematically removed. Encourage teams to own and solve their own impediments whenever possible. Collaborate with other managers and take ownership of impediments that are escalated.
+
+> Decision enablement. Ensure that decisions are made in a just-in-time manner and by the people who have the best insight into the matter, decentralized whenever possible. Ensure that nobody (including you) becomes a decision bottleneck. Minimize the number of decisions that have to be made by you.
+
+> Visualize status and progress. Ensure that everyone can see the “big picture” – dashboards and such showing where we are going and why, where we are now, impediments, etc. Keep it at a high level, leave the details to the teams.
+Flow. Optimize for end-to-end flow of value, not resource utilization. Look for bottlenecks and queues, and apply systems thinking and lean principles to streamline the delivery of business value.
+
+> Self-organization and autonomy. Make the goal and current situation clear so that people can think and act autonomously, with no need for you to tell them what to do.  Ensure people are given problems to solve rather than tasks to execute. Harness the collective intelligence of the group, rather than trying to be a mastermind yourself.
+Staffing and capacity planning. Work with managers to ensure that the right people and teams are available at the right time to maximize the velocity and chance of success.
+
+> Budgets and estimates. Ensure that any budget and contractual constraints are known and managed.  Ensure that estimates are done by the team closest to the work at hand, kept at a high level, and adjusted when necessary. Ensure that estimates are treated as estimates, not promises. Make costs transparent.
+
+> Dependencies. Ensure that cross-team and cross-company dependencies are visualized and managed effectively, and that teams aren’t blocked waiting for each other.
+
+> Cross-functional collaboration. Use techniques such as co-location and cross-functional communication channels to reduce siloing and suboptimization.
+
+> Communication. Create an environment that facilitates high bandwidth face-to-face communication and minimizes the need for unnecessary documents, emails, and other low-bandwidth communication. Documents should be used to support communication, not replace it.
+
+> Fast failure. Create a context where small failures can happen early and often, thereby reducing the risk of a big failure at the end.
+
+
+
 ### Software Engineering 
 
 http://www.extremeprogramming.org/
