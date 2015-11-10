@@ -66,6 +66,17 @@ http://www.agilemanifesto.org/
 
 [Agile Leader](http://blog.crisp.se/2015/11/10/henrikkniberg/what-is-an-agile-leader)
 
+What does an Agile Leader do?
+
+> What does winning look like? Vision/Mission.
+  
+> What’s the plan? Strategy and tactics.
+  
+> What’s the score? Progress, status, feedback loops
+  
+> What is preventing us from winning? Continous improvement, people, teams, strategy, tactics.
+
+
 ### Software Engineering 
 
 http://www.extremeprogramming.org/
