@@ -64,6 +64,7 @@ http://www.agilemanifesto.org/
 
 [Lean Software Development](http://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783/ref=sr_1_1)
 
+[Agile Leader](http://blog.crisp.se/2015/11/10/henrikkniberg/what-is-an-agile-leader)
 
 ### Software Engineering 
 
@@ -127,6 +128,7 @@ The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create 
 + [Jeffries](https://en.wikipedia.org/wiki/Ron_Jeffries)
 + [Spolsky](https://en.wikipedia.org/wiki/Joel_Spolsky)
 + [DHH](https://en.wikipedia.org/wiki/David_Heinemeier_Hansson)
++ [Henrik Kniberg](http://blog.crisp.se/author/henrikkniberg)
 
 
 
