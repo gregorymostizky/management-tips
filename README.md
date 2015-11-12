@@ -57,9 +57,9 @@ The Power of Habit: Why We Do What We Do in Life and Business
 
 Universal Scalability Law
 
-[Explanation](http://www.perfdynamics.com/Manifesto/USLscalability.html)
+> [Explanation](http://www.perfdynamics.com/Manifesto/USLscalability.html)
 
-[A version for organizations](http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/)
+> [A version for organizations](http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/)
 
 
 ### managing sideways and upwards
