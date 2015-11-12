@@ -63,13 +63,13 @@ Universal Scalability Law
 
 > Summary
 
-> It’s really important you learn to delegate effectively and to choose carefully the things that you do get involved in.
+> It’s really important you learn to **delegate effectively** and to **choose carefully** the things that you do get involved in.
 
-> As the organisation grows, strive to keep the number of stakeholders that need to be involved in any decision down to a minimum
+> As the organisation grows, strive to keep **the number of stakeholders** that need to be involved in any decision down to a **minimum**
 
-> You need to keep a strict handle on how many things you’re involved in concurrently; your natural human instinct to be helpful to everyone who asks you to do something for them, or to contribute to their project, actually isn’t helpful at all. (Nor is your desire to control / influence everything if you’re wired that way).
+> You need to keep a **strict handle** on how many things you’re involved in **concurrently;** your natural human instinct to be helpful to everyone who asks you to do something for them, or to contribute to their project, actually isn’t helpful at all. (Nor is your desire to control / influence everything if you’re wired that way).
 
-> Working at or close to 100% utilization will slow to a crawl everything that depends on you.
+> Working at or **close to 100% utilization** will slow to a **crawl** everything that depends on you.
 
 
 ### managing sideways and upwards
