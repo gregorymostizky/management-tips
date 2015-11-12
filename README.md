@@ -55,6 +55,13 @@ The Power of Habit: Why We Do What We Do in Life and Business
 > This book isn't specific to software engineer, or even business / management, as it has a number of other applications including personal growth and so on. The critical piece that is relevant for us is best summarized here [How 'Keystone Habits' Transformed a Corporation](http://www.huffingtonpost.com/charles-duhigg/the-power-of-habit_b_1304550.html) but if you want an even shorter version the idea is that team / company culture is created out of habits - which are essentially automatic responses to certain stimuli and situations. What do you do when ticket is created, how do you respond to feature request, how do you handle bug reports - those are all automatic responses that vary between teams and companies but form together to create the working culture. The argument is that some of these habits could be toxic and harmful, such as the all-too-common QA / developers ping pong game, but the good news is that it's possible to identify one (or small number) of "keystone habits", and by directly working to change those, it's possible to change the entire culture. The classic example is Alcoa and how by focusing the entire company on worker safety they were able to build a culture of innovation, cost controls, accountability and so on. 
 
 
+Universal Scalability Law
+
+[Explanation](http://www.perfdynamics.com/Manifesto/USLscalability.html)
+
+[A version for organizations](http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/)
+
+
 ### managing sideways and upwards
 
 48 laws of power
