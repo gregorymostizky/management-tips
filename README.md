@@ -57,11 +57,9 @@ The Five Dysfunctions of a Team
 
 **Universal Scalability Law**
 
-> [Explanation](http://www.perfdynamics.com/Manifesto/USLscalability.html)
+> [Explanation as applied to systems](http://www.perfdynamics.com/Manifesto/USLscalability.html)
 
-> [A version for organizations](http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/)
-
-> Summary
+> [USL for organizations](http://blog.acolyer.org/2015/04/29/applying-the-universal-scalability-law-to-organisations/)
 
 > It’s really important you learn to **delegate effectively** and to **choose carefully** the things that you do get involved in.
 
