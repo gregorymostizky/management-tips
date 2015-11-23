@@ -162,6 +162,8 @@ C2 [Website](http://c2.com/cgi/wiki?DesignPatterns) [Wikipedia](https://en.wikip
 > The original wiki that was developed to exchange ideas around software development and design patterns back in 1994. Still online amazingly enough. A lot of the content is still valid though at this point there are likely better resources for a lot of this stuff. Despite that I still find myself checking it once in a while.
 
 
+Elm Architecture [Website](https://github.com/evancz/elm-architecture-tutorial/blob/master/README.md)
+
 
 ### Product Management
 
