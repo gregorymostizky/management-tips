@@ -164,6 +164,10 @@ C2 [Website](http://c2.com/cgi/wiki?DesignPatterns) [Wikipedia](https://en.wikip
 
 Elm Architecture [Website](https://github.com/evancz/elm-architecture-tutorial/blob/master/README.md)
 
+API Design Guidelines [link](https://swift.org/documentation/api-design-guidelines.html)
+
+> This is really a topic of its own so I should expand on that at some point.
+
 
 ### Product Management
 
