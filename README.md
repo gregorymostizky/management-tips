@@ -241,3 +241,18 @@ When all else fails...
 [Joel's list of essential book for software manager](http://www.joelonsoftware.com/articles/FogCreekMBACurriculum.html)
 
 [How Database Work](http://coding-geek.com/how-databases-work/)
+
+
+### Where to find more stuff to read / watch
+
+[SlideShare Technology](http://www.slideshare.net/featured/category/technology)
+
+[Hacker News](https://news.ycombinator.com/)
+
+[Reddit/Programming](https://www.reddit.com/r/programming)
+
+[OReilly](https://www.oreilly.com/ideas)
+
+[OReilly Conferences](http://www.oreilly.com/conferences/) A lot of that stuff is also available on YouTube
+
+
