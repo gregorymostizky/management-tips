@@ -168,6 +168,8 @@ API Design Guidelines [link](https://swift.org/documentation/api-design-guidelin
 
 > This is really a topic of its own so I should expand on that at some point.
 
+12 factors of cloud native apps [link](http://12factor.net/)
+
 
 ### Product Management
 
